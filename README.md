@@ -72,10 +72,6 @@ Copyright
 ---------
 (c) 2015 FireGento Team
 
-Testit
----------
-2019 Martin Weymayer
-
-Testit2
+Add by
 ---------
 2019 Martin Weymayer
