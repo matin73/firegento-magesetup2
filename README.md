@@ -71,3 +71,7 @@ Licence
 Copyright
 ---------
 (c) 2015 FireGento Team
+
+Testit
+---------
+2019 Martin Weymayer
